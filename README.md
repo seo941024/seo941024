@@ -7,14 +7,12 @@
 
 ## 🛠 Tech Stack
 - Python
-- Git / GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=seo941024)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seo941024&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 - Email: seo941024@gmail.com
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo941024)
-![snake](https://github.com/seo941024/seo941024/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo941024&layout=compact&theme=tokyonight)
