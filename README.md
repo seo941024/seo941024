@@ -1,9 +1,9 @@
-# 👋 안녕하세요!
+# 👋 안녕하세요. 서지섭입니다.
 
 ## 🙋‍♂️ About Me
-- 🌱 공부중: Python, Git
+- 🌱 공부중: Python, Java 
 - 🎯 목표: 백엔드 개발자
-- 💻 사용 언어: Python
+- 💻 주 사용 언어: Python
 
 ## 🛠 Tech Stack
 - Python
@@ -13,7 +13,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=seo941024)
 
 ## 📫 Contact
-- Email: example@email.com
+- Email: seo941024@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo941024)
