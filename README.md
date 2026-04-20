@@ -24,7 +24,7 @@
 ### 🐍 Python 프로젝트 (대표 프로젝트)
 👉 https://github.com/seo941024/Python-GUI  
 
-**💻 핵심 코드**
+#### 💻 핵심 코드
 
 ```python
 import random
@@ -63,7 +63,7 @@ for i in range(max_pet + 1):
 
 print("==============================\n")
 ```
-**📸 프로젝트 실행화면**
+#### 📸 프로젝트 실행화면
 
 ![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/master/result.png)
 
