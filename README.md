@@ -16,21 +16,64 @@
 
 ## 🚀 Projects
 
-### 🐍 Python GUI 프로젝트  
+### 🐍 Python 프로젝트  
 👉 https://github.com/seo941024/Python-GUI  
 
 ![preview](https://via.placeholder.com/600x300)
 
 **📌 설명**  
 - 간단한 GUI 프로그램 제작  
-- 사용자 입력 처리 및 화면 출력 구현  
+- 사용자 입력 처리 및 화면 출력 구현
+- 게임 아이템 뽑기 확률 시뮬레이션 제
 
 **⚙️ 사용 기술**  
 - Python  
 
 **🧠 배운 점**  
 - 이벤트 기반 처리 흐름 이해  
-- 사용자 인터페이스 설계 기초 경험  
+- 사용자 인터페이스 설계 기초 경험
+
+👉 Python 기반 확률 시뮬레이션 프로젝트
+
+![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/blob/master/result.png)
+
+**📌 설명**  
+- 11회 뽑기를 여러 번 반복하여 자석펫 획득 확률 계산  
+- 몬테카를로 방식으로 확률 실험 구현  
+- 최대 획득 개수 제한 적용  
+
+**⚙️ 사용 기술**  
+- Python  
+- random 모듈  
+- Monte Carlo Simulation  
+
+**💻 핵심 코드**
+import random
+
+trials = 1000000
+max_pet = 5
+single_prob = 0.03
+
+n = int(input("11회 뽑기 횟수 입력: "))
+
+counts = [0] * (max_pet + 1)
+
+for _ in range(trials):
+    pets = 0
+    for _ in range(n * 11):
+        if pets < max_pet and random.random() < single_prob:
+            pets += 1
+    counts[pets] += 1
+
+probabilities = [c / trials * 100 for c in counts]
+
+for i in range(max_pet + 1):
+    print(f"{i}개: {probabilities[i]:.2f}%")
+
+**🧠 배운 점**  
+- 확률 시뮬레이션 구조 이해  
+- 랜덤 기반 모델링 경험  
+- 게임 확률 분석 방식 학습  
 
 ---
 
