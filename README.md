@@ -19,7 +19,6 @@
 
 ## 🚀 Projects
 
----
 
 ### 🐍 Python 프로젝트 (대표 프로젝트)
 👉 https://github.com/seo941024/Python-GUI  
