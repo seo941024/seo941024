@@ -49,6 +49,7 @@
 
 **💻 핵심 코드**
 
+```python
 import random
 
 trials = 1000000
@@ -70,6 +71,7 @@ probabilities = [c / trials * 100 for c in counts]
 
 for i in range(max_pet + 1):
     print(f"{i}개: {probabilities[i]:.2f}%")
+```
 
 **🧠 배운 점**  
 - 확률 시뮬레이션 구조 이해  
