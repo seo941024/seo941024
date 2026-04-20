@@ -55,7 +55,7 @@
 ### 🌐 HTML 연습 프로젝트  
 👉 https://github.com/seo941024/Web-practice  
 
-![preview](https://raw.githubusercontent.com/seo941024/Web-practice/main/labs/images/preview.png)
+![preview](https://raw.githubusercontent.com/seo941024/Web-practice/main/labs/images/webpage.png)
 
 **📌 설명**  
 - 기본 웹 페이지 제작  
