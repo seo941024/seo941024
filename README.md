@@ -30,7 +30,7 @@
 
 ### 💻 핵심 코드
 
-'''python
+```python
 import random
 
 trials = 1000000
@@ -66,7 +66,7 @@ for i in range(max_pet + 1):
     print(f"{i}개      | {probabilities[i]:.2f}%")
 
 print("==============================\n")
-'''
+```
 
 **📌 설명**  
 - Python을 활용한 다양한 연습 프로젝트 진행  
