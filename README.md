@@ -55,7 +55,13 @@
 ### 🌐 HTML 연습 프로젝트  
 👉 https://github.com/seo941024/Web-practice  
 
+## 📸 실행 화면
+
 ![preview](https://raw.githubusercontent.com/seo941024/Web-practice/master/chap13_source/labs/images/webpage.png)
+
+- HTML/CSS 기반 웹페이지 제작  
+- 벚꽃 축제 테마 UI 디자인 구현  
+- 사용자 친화적 레이아웃 구성 
 
 **📌 설명**  
 - 기본 웹 페이지 제작  
