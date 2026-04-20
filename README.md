@@ -48,6 +48,7 @@
 - Monte Carlo Simulation  
 
 **💻 핵심 코드**
+
 import random
 
 trials = 1000000
