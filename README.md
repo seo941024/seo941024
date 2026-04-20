@@ -24,10 +24,6 @@
 ### 🐍 Python 프로젝트 (대표 프로젝트)
 👉 https://github.com/seo941024/Python-GUI  
 
-## 📸 프로젝트 실행화면 🐣
-
-![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/master/result.png)
-
 ### 💻 핵심 코드
 
 ```python
@@ -67,6 +63,9 @@ for i in range(max_pet + 1):
 
 print("==============================\n")
 ```
+### 📸 프로젝트 실행화면 🐣
+
+![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/master/result.png)
 
 **📌 설명**  
 - Python을 활용한 다양한 연습 프로젝트 진행  
