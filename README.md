@@ -35,7 +35,7 @@
 
 👉 Python 기반 확률 시뮬레이션 프로젝트
 
-![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/blob/master/result.png)
+![preview](https://raw.githubusercontent.com/seo941024/Python-GUI/master/result.png)
 
 **📌 설명**  
 - 11회 뽑기를 여러 번 반복하여 자석펫 획득 확률 계산  
