@@ -14,6 +14,18 @@
 
 ---
 
+## 🚀 Projects
+- 🐍 Python GUI 프로젝트  
+  👉 https://github.com/seo941024/Python-GUI  
+
+- ☕ Java 프로젝트  
+  👉 https://github.com/seo941024/Java  
+
+- 🌐 HTML 연습 프로젝트  
+  👉 https://github.com/seo941024/Web-practice  
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seo941024&show_icons=true&theme=graywhite)
 
@@ -23,4 +35,3 @@
 
 ## 📫 Contact
 - Email: seo941024@gmail.com
-
