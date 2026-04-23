@@ -136,7 +136,7 @@ class BowlingGame:
                     if i + 1 < len(self.throw_list):
                         nxt = self.throw_list[i + 1]
 
-                        # ⭐ 2번째 투구일 때만 스페어 허용
+                        # 2번째 투구일 때만 스페어 허용
                         if roll_in_frame == 1 and val + nxt == 10:
                             result.append(str(val))
                             result.append("/")
