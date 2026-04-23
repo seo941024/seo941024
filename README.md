@@ -16,14 +16,9 @@
 
 ## 🚀 Projects
 
-### 🐍 Python 프로젝트
-
-https://github.com/seo941024/Python/tree/master/flet#-bowling-score-board-python--flet
+## 📌 대표 프로젝트 소개
 
 # 🎳 Bowling Score Board
-
-## 📌 프로젝트 소개
-
 이 프로젝트는 Python과 Flet을 활용하여 구현한 **볼링 점수판 GUI 프로그램**입니다.
 사용자의 투구 결과를 입력받아 **실시간으로 프레임 점수와 누적 점수**를 시각적으로 표시합니다.
 
@@ -411,7 +406,10 @@ ft.app(target=main)
 * 💾 게임 기록 저장 기능
 
 ---
+### 🐍 Python 프로젝트
 
+https://github.com/seo941024/Python/tree/master/flet#-bowling-score-board-python--flet
+---
 ### ☕ Java 프로젝트  
 👉 https://github.com/seo941024/Java  
 
@@ -430,7 +428,7 @@ ft.app(target=main)
 ---
 
 ### 🌐 HTML 연습 프로젝트  
-👉 https://github.com/seo941024/Web-practice  
+👉 https://github.com/seo941024/Web-PRG
 
 ![preview](https://raw.githubusercontent.com/seo941024/Web-PRG/master/web/Class/chap13/labs/images/webpage.png)
 **📌 설명**  
