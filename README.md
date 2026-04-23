@@ -16,12 +16,11 @@
 
 ## 🚀 Projects
 
-### 🐍 Python 프로젝트 (flet)
+### 🐍 Python 프로젝트
 
 https://github.com/seo941024/Python/tree/master/flet#-bowling-score-board-python--flet
 
-
-# 🎳 Bowling Score Board (Python + Flet)
+# 🎳 Bowling Score Board
 
 ## 📌 프로젝트 소개
 
