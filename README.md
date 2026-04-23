@@ -44,7 +44,7 @@
 
 ```id="p1"
 📦 Bowling-Score-Board
- ┣ 📜 main.py              # Flet UI 및 이벤트 처리
+ ┣ 📜 Bowling_flet.py              # Flet UI 및 이벤트 처리
  ┣ 📜 bowling_func.py      # 볼링 점수 계산 로직 (BowlingGame 클래스)
  ┣ 📜 README.md
  ┗ 📜 requirements.txt
@@ -216,7 +216,7 @@ pip install flet
 ### 2️⃣ 실행
 
 ```id="p3"
-python main.py
+Bowling_flet.py
 ```
 
 ---
