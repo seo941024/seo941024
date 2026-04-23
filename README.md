@@ -405,9 +405,8 @@ ft.app(target=main)
 
 ---
 ### 🐍 Python 프로젝트
----
-https://github.com/seo941024/Python/tree/master/flet#-bowling-score-board-python--flet
----
+👉 https://github.com/seo941024/Python
+
 ### ☕ Java 프로젝트  
 👉 https://github.com/seo941024/Java  
 
