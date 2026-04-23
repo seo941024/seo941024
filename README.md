@@ -16,6 +16,8 @@
 
 ## 🚀 Projects
 
+https://github.com/seo941024/Python/tree/master/flet
+
 
 ### 🐍 Python 프로젝트 (대표 프로젝트)
 👉 https://github.com/seo941024/Python-GUI  
