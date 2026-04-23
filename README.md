@@ -247,6 +247,7 @@ Bowling_flet.py
 ---
 ### 🐍 Python 프로젝트
 👉 https://github.com/seo941024/Python
+- 희귀 확률(0.2%) 가챠 모델을 n회 시행으로 정의하고, 100만 회 Monte Carlo 시뮬레이션을 통해 기대값 및 획득 분포를 추정한 프로젝트 제작
 
 ### ☕ Java 프로젝트  
 👉 https://github.com/seo941024/Java  
