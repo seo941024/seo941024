@@ -14,8 +14,6 @@
 
 ---
 
-## 🚀 Projects
-
 ## 📌 대표 프로젝트 소개
 
 # 🎳 Bowling Score Board
