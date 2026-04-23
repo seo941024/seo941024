@@ -432,8 +432,7 @@ ft.app(target=main)
 ### 🌐 HTML 연습 프로젝트  
 👉 https://github.com/seo941024/Web-practice  
 
-![preview](https://raw.githubusercontent.com/seo941024/Web-practice/master/chap13/labs/images/webpage.png)
-
+![preview](https://raw.githubusercontent.com/seo941024/Web-PRG/master/web/Class/chap13/labs/images/webpage.png)
 **📌 설명**  
 - HTML/CSS 기반 웹페이지 제작  
 - 벚꽃 축제 테마 UI 구현  
