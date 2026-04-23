@@ -320,7 +320,8 @@ Bowling_flet.py
 * 점수 누적 표시
 * 입력창 + 투구 버튼
   
-![preview](https://raw.githubusercontent.com/seo941024/Python/master/flet/Bowlingfletcapture.png)
+![preview](https://raw.githubusercontent.com/seo941024/Python/master/Practice/Bowlingfletcapture.png)
+
 ---
 ## 📖 학습 포인트
 
