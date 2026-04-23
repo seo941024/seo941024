@@ -16,7 +16,7 @@
 
 ## 🚀 Projects
 
-https://github.com/seo941024/Python/tree/master/flet
+https://github.com/seo941024/Python/tree/master/flet#-bowling-score-board-python--flet
 
 
 ### 🐍 Python 프로젝트 (대표 프로젝트)
