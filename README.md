@@ -34,6 +34,7 @@ YOLOv11m 객체 검출 + PaddleOCR 문자 인식 + ByteTrack 실시간 추적을
 - ByteTrack으로 검출 객체를 실시간 추적, GPU(검출)/CPU(OCR) 파이프라인 분리로 프레임 끊김 없이 처리
 - PaddleOCR 기반 한국어 번호판 인식, 화이트/블랙리스트 관리, 요금 자동 계산
 - 입출차 로그를 SQL(LAG 윈도우 함수, CTE)로 분석해 방문 추이·피크타임·매출·재방문 패턴을 Streamlit 대시보드로 시각화
+- 동일 데이터셋을 SQLite · Power BI · Power Query · Databricks(PySpark/Spark SQL)로도 탐색해 다양한 데이터 도구 학습
 
 **🧩 기술적 문제 해결**
 - YOLO(torch-GPU)와 PaddleOCR(paddle-GPU)의 CUDA 심볼 충돌 → OCR을 CPU 전용으로 분리해 안정적 공존 구조 설계
