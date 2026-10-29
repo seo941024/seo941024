@@ -115,6 +115,20 @@
 
 </td>
 </tr>
+<tr>
+<td><img src="images/todolist.jpg" alt="파스텔 루틴 투두리스트"></td>
+<td>
+
+### [파스텔 루틴 투두리스트](https://github.com/seo941024/Web-PRG)
+매일 반복하는 할 일을 자정에 자동 초기화하는 개인 맞춤 루틴 관리 웹 앱
+
+- 한국 시간 기준 자정 자동 초기화, 서버 없이 브라우저 저장소 저장
+- 휴대폰 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
 </table>
 
 | 프로젝트 | 내용 | 기술 |
@@ -135,18 +149,6 @@
 - 같은 미로에 스택·큐·우선순위 큐 적용해 탐색 순서 비교, 스택 기반 수식 계산기
 
 `Python` `flet`
-
-</td>
-</tr>
-<tr>
-<td><img src="images/todolist.jpg" alt="파스텔 루틴 투두리스트"></td>
-<td>
-
-### [파스텔 루틴 투두리스트](https://github.com/seo941024/Web-PRG)
-- 한국 시간 기준 자정 자동 초기화, 서버 없이 브라우저 저장소 저장
-- 휴대폰 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
-
-`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
