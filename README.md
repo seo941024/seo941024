@@ -150,12 +150,36 @@
 
 </td>
 </tr>
+<tr>
+<td><img src="images/java.jpg" alt="Java"></td>
+<td>
+
+### [Java 웹 애플리케이션](https://github.com/seo941024/Java)
+- 서블릿·JSP 기반 회원 조회·등록·삭제, 쿠키·세션 로그인, MVC 패턴 구현
+- Spring MVC·MyBatis 연동, Controller·Service·DAO 계층 분리, 애너테이션 기반 트랜잭션 처리
+- 상속·다형성·인터페이스, 컬렉션·제네릭, 파일 입출력 콘솔 프로그램
+
+`Java` `Servlet` `JSP` `Spring MVC` `MyBatis` `Oracle`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/cpp-cv.jpg" alt="C++ 프로그래밍·컴퓨터 비전"></td>
+<td>
+
+### [C++ 프로그래밍 · 컴퓨터 비전](https://github.com/seo941024/Cpp-CV)
+- C++ 클래스·정적 멤버·소멸자·분할 컴파일 기반 분수 계산·제품 관리 프로그램
+- MFC 대화상자·버튼 이벤트 처리, 웹캠 영상 뷰어 프로그램
+- Python OpenCV 이진화·캐니 에지·원 검출, 특징점 매칭·호모그래피 기반 객체 검출
+
+`C++` `MFC` `Python` `OpenCV`
+
+</td>
+</tr>
 </table>
 
 | 저장소 | 내용 |
 |---|---|
-| [Java](https://github.com/seo941024/Java) | 서블릿·JSP 회원 관리 웹, Spring MVC·MyBatis 연동, Controller·Service·DAO 계층 분리 |
-| [Cpp-CV](https://github.com/seo941024/Cpp-CV) | C++ 클래스 프로그램, MFC 윈도우 프로그램·웹캠 영상 뷰어, OpenCV 영상 처리 |
 | [PromptScene](https://github.com/seo941024/PromptScene) | Open-Vocabulary Detection 기반 영상·사진첩 장면 검색 |
 | [EntranceCounter](https://github.com/seo941024/EntranceCounter) | YOLO와 BoT-SORT 객체 추적 기반 출입 인원 카운터 |
 | [DeskPoseAI](https://github.com/seo941024/DeskPoseAI) | 웹캠 자세·표정 인식 기반 집중 상태 판단 |
