@@ -1,6 +1,6 @@
 # 서지섭
 
-데이터 수집·정제·분석부터 AI 모델 학습과 활용, 웹·데스크톱·앱 서비스 구현까지 직접 만들고 검증하는 개발자.
+데이터 수집·정제·분석부터 AI 모델 학습과 활용, 웹·데스크톱·앱 서비스 구현까지 만들고 검증하는 개발자.
 문제의 원인을 실측으로 확인하고, 근거를 남기며 해결하는 방식으로 작업합니다.
 
 ---
@@ -13,6 +13,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/seo941024/LPR_System)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/seo941024/Crawling)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Jenny5789/CGI_MOA)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Jenny5789/CGI_MOA)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/seo941024/DDarueng)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/seo941024/Java)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/seo941024/Web-PRG)
@@ -22,27 +24,141 @@
 
 ## 대표 프로젝트
 
+<table>
+<tr>
+<td width="38%"><img src="images/ddareungi.jpg" alt="공공자전거 대여소 진단 프로그램"></td>
+<td>
+
+### [서울 공공자전거 대여소 진단 프로그램](https://github.com/seo941024/DDarueng)
+대여 기록 3,737만 건·대여 가능 수량 2,418만 행 기반 대여소별 수요·공급 상태 진단
+
+- 대여소별 공급 부족·과잉 판정 기준 설계, 운영 조치 추천 데스크톱 프로그램
+- SQLite·DuckDB 처리 시간 비교 후 DuckDB 채택, 592초에서 7초로 단축
+- 규칙 기반 분류와 k-means 군집화 비교, 상·하반기 결과 일관성 검증
+
+`Python` `DuckDB` `SQL` `Flutter` `Power BI`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/okashieri.jpg" alt="오카시에리"></td>
+<td>
+
+### [오카시에리](https://github.com/seo941024/Crawling)
+일본 과자 직구 쇼핑몰 3곳의 상품을 모아 가격을 비교하는 검색 서비스
+
+- 사이트 구조별 정적·동적 수집 방식 선택, 가격 정제·공통 분류 10개 정의
+- SQLite DB 구축, Flask 통합 검색·필터·가격순 비교
+- 주 1회 자동 수집으로 최신 가격 유지
+
+`Python` `requests` `Selenium` `SQLite` `Flask` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/lpr.jpg" alt="LPR_System"></td>
+<td>
+
+### [LPR_System · 번호판 인식 주차 관리](https://github.com/seo941024/LPR_System)
+번호판 검출·인식으로 입출차를 기록하고 SQL로 이용 패턴을 분석하는 주차 관리 시스템
+
+- YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택
+- 번호판 한글 검사 추가, 인식 오답 7건에서 1건으로 감소
+- SQLite 입출차 기록, SQL 시간대별 이용·추정 매출 분석 대시보드
+
+`Python` `PyTorch` `YOLO` `PaddleOCR` `PyQt6` `SQLite` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/moa.jpg" alt="MOA"></td>
+<td>
+
+### [MOA · 의류 이미지 합성 웹 서비스](https://github.com/Jenny5789/CGI_MOA)
+미래내일 일경험 4인 팀 프로젝트, 상의·인물 사진 기반 시착 이미지 합성
+
+- React 기반 단계별 합성 화면 설계·구현, FastAPI 서버 API 연동
+- 혼합 정밀도 연산·모델 순차 적재로 GPU 메모리 최적화, 합성 약 12분에서 평균 24.9초로 단축
+- IoU 지표 기반 이미지 분할 정확도 평가 체계 구현
+
+`React` `FastAPI` `MySQL` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/traffic-sign.jpg" alt="교통 표지판 분류"></td>
+<td>
+
+### [교통 표지판 분류](https://github.com/seo941024/Traffic-Sign-Classification)
+한국 교통 표지판 10종을 같은 조건의 ANN·DNN·CNN으로 학습해 구조별 성능 비교
+
+- CNN이 DNN 파라미터의 1/6 수준으로 가장 높은 정확도 94~95% 달성
+- 입력 크기 16~64px 반증 실험으로 구조 효과 확인
+- PyTorch 학습 루프 구현, Keras 이중 구현으로 교차 확인
+
+`PyTorch` `Keras`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/petcare.jpg" alt="펫케어"></td>
+<td>
+
+### [펫케어 · 반려동물 케어 웹 서비스](https://github.com/seo941024/Web-PRG)
+초보 반려인을 위한 입양 준비·건강 관리·위험 예방 통합 웹
+
+- 입양 성향 퀴즈·필수 용품 체크리스트·첫 달 예산 계산기, 위험 음식 검색
+- Node 서버 프록시 기반 공공데이터포털 유기동물 조회 API 연동
+- 카카오 지도 API 기반 주변 지도, 품종 추천 퀴즈
+
+`HTML` `CSS` `JavaScript` `Node.js`
+
+</td>
+</tr>
+</table>
+
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
-| [서울 공공자전거 대여 진단 프로그램](https://github.com/seo941024/DDarueng) | 대여 기록 3,737만 건·대여 가능 수량 2,418만 행으로 대여소별 수요·공급 상태를 측정하고 운영 조치를 분류. SQLite·DuckDB 실측 비교 후 DB 선택, 규칙 기반·k-means 분류 비교 검증 | Python · DuckDB · SQL · Flutter · Power BI |
-| [오카시에리](https://github.com/seo941024/Crawling) | 일본 과자 직구 쇼핑몰 3곳의 상품을 수집·정제해 가격을 비교하는 검색 서비스. 사이트 구조에 따른 정적·동적 수집 방식 선택, 키워드 기반 공통 분류, 주간 자동 수집 | Python · requests · Selenium · SQLite · Flask |
-| [LPR_System](https://github.com/seo941024/LPR_System) | 번호판 검출·인식으로 주차장 입출차를 기록하고 SQL로 분석하는 주차 관리 시스템. 인식 실패 원인을 비교 실험으로 분리, 불법 주정차 의심 기록 | Python · YOLO · OCR · PyQt6 · SQLite |
-| [교통 표지판 분류](https://github.com/seo941024/Traffic-Sign-Classification) | 한국 교통 표지판 10종을 같은 조건의 ANN·DNN·CNN으로 학습해 구조가 성능을 가르는지 비교. PyTorch 학습 루프 직접 구현, Keras 이중 구현으로 교차 확인 | PyTorch · Keras |
 | [어디버려?](https://github.com/seo941024/waste-lens) | 생활용품 사진으로 품목을 인식하고 신뢰도 판단 후 배출 방법을 안내하는 공동 프로젝트 | PyTorch · Streamlit · PyQt6 |
 
 ---
 
-## 기본기와 실습
+## 기본기
+
+<table>
+<tr>
+<td width="38%"><img src="images/data-structure.jpg" alt="자료구조 구현과 응용"></td>
+<td>
+
+### [자료구조 구현과 응용](https://github.com/seo941024/Python)
+- 리스트·스택·큐·덱·우선순위 큐·집합을 배열·연결 구조 두 방식으로 구현, 정렬 6종
+- 같은 미로에 스택·큐·우선순위 큐 적용해 탐색 순서 비교, 스택 기반 수식 계산기
+
+`Python` `flet`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/todolist.jpg" alt="파스텔 루틴 투두리스트"></td>
+<td>
+
+### [파스텔 루틴 투두리스트](https://github.com/seo941024/Web-PRG)
+- 한국 시간 기준 자정 자동 초기화, 서버 없이 브라우저 저장소 저장
+- 휴대폰 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 | 저장소 | 내용 |
 |---|---|
-| [Python](https://github.com/seo941024/Python) | 리스트·스택·큐·덱·집합 자료구조 직접 구현, 정렬 6종, 미로 탐색 DFS·BFS, flet 시각화, 볼링 점수판 |
-| [Java](https://github.com/seo941024/Java) | 기본 문법·객체지향·컬렉션, 서블릿·JSP·MVC·Spring·MyBatis 단계별 회원 관리 웹 |
-| [Web-PRG](https://github.com/seo941024/Web-PRG) | HTML·CSS·JavaScript 실습, 반려인 케어 웹 펫케어, 루틴 투두리스트 |
-| [Cpp-CV](https://github.com/seo941024/Cpp-CV) | C++ 문법·클래스, OpenCV 영상 처리와 딥러닝 비전, MFC 윈도우 프로그래밍 실습 |
-| [PromptScene](https://github.com/seo941024/PromptScene) | 자연어로 영상·사진첩 장면을 찾는 Open-Vocabulary Detection 실습 |
+| [Java](https://github.com/seo941024/Java) | 서블릿·JSP 회원 관리 웹, Spring MVC·MyBatis 연동, Controller·Service·DAO 계층 분리 |
+| [Cpp-CV](https://github.com/seo941024/Cpp-CV) | C++ 클래스 프로그램, MFC 윈도우 프로그램·웹캠 영상 뷰어, OpenCV 영상 처리 |
+| [PromptScene](https://github.com/seo941024/PromptScene) | Open-Vocabulary Detection 기반 영상·사진첩 장면 검색 |
 | [EntranceCounter](https://github.com/seo941024/EntranceCounter) | YOLO와 BoT-SORT 객체 추적 기반 출입 인원 카운터 |
-| [DeskPoseAI](https://github.com/seo941024/DeskPoseAI) | 웹캠 자세·표정 인식으로 집중 상태 판단 |
+| [DeskPoseAI](https://github.com/seo941024/DeskPoseAI) | 웹캠 자세·표정 인식 기반 집중 상태 판단 |
 
 ---
 
