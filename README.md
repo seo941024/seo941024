@@ -217,5 +217,13 @@
 
 ---
 
+## GitHub Stats
+
+![프로필 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seo941024&theme=default)
+
+![저장소 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo941024&theme=default) ![커밋 언어](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seo941024&theme=default)
+
+---
+
 ## Contact
 - Email: seo941024@gmail.com
