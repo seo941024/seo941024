@@ -30,7 +30,7 @@
 <td>
 
 ### [서울 공공자전거 대여소 진단 프로그램](https://github.com/seo941024/DDarueng)
-대여 기록 3,737만 건·대여 가능 수량 2,418만 행 기반 대여소별 수요·공급 상태 진단
+서울시 공공자전거 대여 기록과 대여 가능 수량 기반 대여소별 수요·공급 상태 진단
 
 - 대여소별 공급 부족·과잉 판정 기준 설계, 운영 조치 추천 데스크톱 프로그램
 - 운영 기간 산출·저이용 대여소 제외 기준 설계, 전량 대여 비율·평균 거치 자전거 수 지표 정의
@@ -77,11 +77,11 @@
 ### [MOA · 의류 이미지 합성 웹 서비스](https://github.com/Jenny5789/CGI_MOA)
 미래내일 일경험 4인 팀 프로젝트, 상의·인물 사진 기반 시착 이미지 합성
 
-- React 기반 단계별 합성 화면 설계·구현, FastAPI 서버 API 연동
-- 혼합 정밀도 연산·모델 순차 적재로 GPU 메모리 최적화, 합성 약 12분에서 평균 24.9초로 단축
-- IoU 지표 기반 이미지 분할 정확도 평가 체계 구현
+- React 기반 단계별 합성 화면 구현, FastAPI 서버 API 연동
+- 합성 모델 재학습, Cloudflare 터널 기반 외부 시연 환경 구축
+- Git·GitHub 브랜치·PR 기반 팀 협업
 
-`React` `FastAPI` `MySQL` `PyTorch`
+`React` `FastAPI` `MySQL` `PyTorch` `Cloudflare`
 
 </td>
 </tr>
@@ -130,10 +130,6 @@
 </td>
 </tr>
 </table>
-
-| 프로젝트 | 내용 | 기술 |
-|---|---|---|
-| [어디버려?](https://github.com/seo941024/waste-lens) | 생활용품 사진으로 품목을 인식하고 신뢰도 판단 후 배출 방법을 안내하는 공동 프로젝트 | PyTorch · Streamlit · PyQt6 |
 
 ---
 
@@ -185,14 +181,6 @@
 | [PromptScene](https://github.com/seo941024/PromptScene) | Open-Vocabulary Detection 기반 영상·사진첩 장면 검색 |
 | [EntranceCounter](https://github.com/seo941024/EntranceCounter) | YOLO와 BoT-SORT 객체 추적 기반 출입 인원 카운터 |
 | [DeskPoseAI](https://github.com/seo941024/DeskPoseAI) | 웹캠 자세·표정 인식 기반 집중 상태 판단 |
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seo941024&show_icons=true&theme=graywhite)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seo941024&layout=compact&theme=graywhite)
 
 ---
 
