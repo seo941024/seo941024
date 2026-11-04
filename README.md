@@ -176,11 +176,44 @@
 </tr>
 </table>
 
-| 저장소 | 내용 |
-|---|---|
-| [PromptScene](https://github.com/seo941024/PromptScene) | Open-Vocabulary Detection 기반 영상·사진첩 장면 검색 |
-| [EntranceCounter](https://github.com/seo941024/EntranceCounter) | YOLO와 BoT-SORT 객체 추적 기반 출입 인원 카운터 |
-| [DeskPoseAI](https://github.com/seo941024/DeskPoseAI) | 웹캠 자세·표정 인식 기반 집중 상태 판단 |
+<table>
+<tr>
+<td width="38%"><img src="images/promptscene.jpg" alt="PromptScene"></td>
+<td>
+
+### [PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene)
+- 텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 2종을 같은 이미지로 비교
+- 문장으로 영상·사진첩을 검색해 해당 장면과 시각을 찾는 검색 도구
+
+`Python` `YOLO-World` `Grounding DINO`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/entrance-counter.jpg" alt="EntranceCounter"></td>
+<td>
+
+### [EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter)
+- 프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 이동 궤적 표시
+- 가상 선을 넘는 사람을 방향별로 집계, 가려짐·재등장 상황 테스트
+
+`Python` `YOLO` `BoT-SORT`
+
+</td>
+</tr>
+<tr>
+<td><img src="images/deskpose.jpg" alt="DeskPoseAI"></td>
+<td>
+
+### [DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI)
+- 웹캠 영상에서 자세 키포인트를 추출해 책상 앞 자세 3종 분류
+- 나이·성별·감정 인식 결과를 집계해 집중 상태 판단
+
+`Python` `YOLO-Pose` `XGBoost` `DeepFace`
+
+</td>
+</tr>
+</table>
 
 ---
 
