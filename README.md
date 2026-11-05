@@ -1,7 +1,7 @@
 # 서지섭
 
-웹·앱 서비스, AI 모델 활용, 데이터 분석까지 필요한 것을 직접 만들어 보며 성장하는 개발자입니다.
-만든 결과가 의도대로 동작하는지 확인하고, 과정과 근거를 README로 남기는 방식으로 작업합니다.
+웹·데스크톱·앱 서비스 구현부터 AI 모델 활용, 데이터 수집·분석까지 직접 만들고 확인하는 개발자.
+예상과 다른 결과가 나오면 원인을 찾아 끝까지 해결합니다.
 
 ---
 
@@ -219,9 +219,7 @@
 
 ## GitHub Stats
 
-![프로필 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seo941024&theme=default)
-
-![저장소 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo941024&theme=default) ![커밋 언어](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seo941024&theme=default)
+![저장소 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo941024&theme=default)
 
 ---
 
