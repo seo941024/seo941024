@@ -219,7 +219,7 @@
 
 ## GitHub Stats
 
-![저장소 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo941024&theme=default)
+![저장소 언어](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seo941024&theme=default) ![커밋 언어](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seo941024&theme=default)
 
 ---
 
