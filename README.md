@@ -27,7 +27,7 @@
 <td width="210" align="center"><img src="images/ddareungi.jpg" height="140" alt="공공자전거 대여소 진단 프로그램"></td>
 <td>
 
-**[서울 공공자전거 대여소 진단 프로그램](https://github.com/seo941024/DDarueng)**<br>
+**[서울 공공자전거 대여소 진단 프로그램](https://github.com/seo941024/DDarueng)** · 개인 프로젝트<br>
 서울시 공공자전거 대여 기록과 대여 가능 수량 기반 대여소별 수요·공급 상태 진단<br>
 공급 부족·과잉 판정 기준 설계, 규칙 기반 분류와 k-means 군집화 비교
 
@@ -39,7 +39,7 @@
 <td align="center"><img src="images/okashieri.jpg" height="140" alt="오카시에리"></td>
 <td>
 
-**[오카시에리](https://github.com/seo941024/Crawling)**<br>
+**[오카시에리](https://github.com/seo941024/Crawling)** · 개인 프로젝트<br>
 일본 과자 직구 쇼핑몰 3곳의 상품을 모아 가격을 비교하는 검색 서비스<br>
 사이트 구조별 정적·동적 수집 방식 선택, SQLite DB와 Flask 통합 검색, 주 1회 자동 수집
 
@@ -51,7 +51,7 @@
 <td align="center"><img src="images/lpr.jpg" width="200" alt="LPR_System"></td>
 <td>
 
-**[LPR_System · 번호판 인식 주차 관리](https://github.com/seo941024/LPR_System)**<br>
+**[LPR_System · 번호판 인식 주차 관리](https://github.com/seo941024/LPR_System)** · 개인 프로젝트<br>
 번호판 검출·인식으로 입출차를 기록하고 SQL로 이용 패턴을 분석하는 주차 관리 시스템<br>
 YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택, SQLite 입출차 기록 분석 대시보드
 
@@ -63,9 +63,9 @@ YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택, SQLite 입�
 <td align="center"><img src="images/moa.jpg" width="200" alt="MOA"></td>
 <td>
 
-**[MOA · 의류 이미지 합성 웹 서비스](https://github.com/Jenny5789/CGI_MOA)**<br>
-미래내일 일경험 4인 팀 프로젝트, 상의·인물 사진 기반 시착 이미지 합성<br>
-React 단계별 합성 화면 구현, FastAPI 서버 API 연동, 브랜치·PR 기반 팀 협업
+**[MOA · 의류 이미지 합성 웹 서비스](https://github.com/Jenny5789/CGI_MOA)** · 4인 팀 프로젝트<br>
+미래내일 일경험 참여, 상의·인물 사진 기반 시착 이미지 합성<br>
+담당: React 단계별 합성 화면 구현, FastAPI 서버 API 연동, 브랜치·PR 기반 팀 협업
 
 `React` `FastAPI` `MySQL` `PyTorch` `Cloudflare`
 
@@ -75,7 +75,7 @@ React 단계별 합성 화면 구현, FastAPI 서버 API 연동, 브랜치·PR �
 <td align="center"><img src="images/traffic-sign.jpg" width="200" alt="교통 표지판 분류"></td>
 <td>
 
-**[교통 표지판 분류](https://github.com/seo941024/Traffic-Sign-Classification)**<br>
+**[교통 표지판 분류](https://github.com/seo941024/Traffic-Sign-Classification)** · 개인 프로젝트<br>
 한국 교통 표지판 10종을 같은 조건의 ANN·DNN·CNN으로 학습해 구조별 성능 비교<br>
 PyTorch 학습 루프 구현, Keras 이중 구현 교차 확인, 입력 크기 반증 실험
 
@@ -87,7 +87,7 @@ PyTorch 학습 루프 구현, Keras 이중 구현 교차 확인, 입력 크기 �
 <td align="center"><img src="images/petcare.jpg" width="200" alt="펫케어"></td>
 <td>
 
-**[펫케어 · 반려동물 케어 웹 서비스](https://github.com/seo941024/Web-PRG)**<br>
+**[펫케어 · 반려동물 케어 웹 서비스](https://github.com/seo941024/Web-PRG)** · 개인 프로젝트<br>
 초보 반려인을 위한 입양 준비·건강 관리·위험 예방 통합 웹<br>
 Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카카오 지도 API, 품종 추천 퀴즈
 
@@ -95,43 +95,94 @@ Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카�
 
 </td>
 </tr>
+</table>
+
+---
+
+## 기타 프로젝트
+
+<table>
 <tr>
-<td align="center"><img src="images/todolist.jpg" width="200" alt="파스텔 루틴 투두리스트"></td>
+<td>
+
+**[PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene)**<br>
+텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 비교, 문장 기반 영상·사진첩 장면 검색
+
+`Python` `YOLO-World` `Grounding DINO`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter)**<br>
+프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 가상 선 통과 인원 방향별 집계
+
+`Python` `YOLO` `BoT-SORT`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI)**<br>
+자세 키포인트 기반 책상 앞 자세 3종 분류, 표정 인식 결과 집계 기반 집중 상태 판단
+
+`Python` `YOLO-Pose` `XGBoost` `DeepFace`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Python · 자료구조와 알고리즘](https://github.com/seo941024/Python)**<br>
+배열·연결 방식 자료구조 클래스 구현, 미로 탐색 3종 비교, 정렬 6종, Flet·tkinter 화면 구성
+
+`Python` `Flet` `tkinter`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Java · 기본 문법과 웹 애플리케이션](https://github.com/seo941024/Java)**<br>
+객체지향·컬렉션, 서블릿·JSP 세션 로그인과 MVC 패턴, Spring MVC·MyBatis 계층 분리
+
+`Java` `Servlet/JSP` `Spring MVC` `MyBatis` `Oracle`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Cpp-CV · C++와 컴퓨터 비전](https://github.com/seo941024/Cpp-CV)**<br>
+C++ 클래스·포인터·동적 메모리, MFC 윈도우 프로그래밍, OpenCV 화소 처리·특징점 매칭, 딥러닝 분류·검출·추적
+
+`C++` `MFC` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Web-PRG · 웹 프로그래밍](https://github.com/seo941024/Web-PRG)**<br>
+HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
 <td>
 
 **[파스텔 루틴 투두리스트](https://github.com/seo941024/Web-PRG)**<br>
-매일 반복하는 할 일을 자정에 자동 초기화하는 개인 맞춤 루틴 관리 웹 앱<br>
-한국 시간 기준 자정 자동 초기화, 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
+매일 반복하는 할 일을 한국 시간 자정에 자동 초기화하는 루틴 관리 웹 앱, 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
 
 `HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
 </table>
-
----
-
-## Study
-
-언어별 기본 문법부터 프레임워크까지의 학습 기록.
-
-| 분야 | 학습 범위 | 저장소 |
-|---|---|---|
-| Python | 배열·연결 방식 자료구조 클래스 구현, 미로 탐색 3종 비교, 정렬 6종, Flet·tkinter 화면 구성 | [Python](https://github.com/seo941024/Python) |
-| Java | 기본 문법·객체지향·컬렉션, 서블릿·JSP 세션 로그인과 MVC 패턴, Spring MVC·MyBatis 계층 분리 | [Java](https://github.com/seo941024/Java) |
-| C++ | 기본 문법·함수·클래스, 포인터·동적 메모리, 헤더 분할 컴파일, MFC 윈도우 프로그래밍 | [Cpp-CV](https://github.com/seo941024/Cpp-CV) |
-| 컴퓨터 비전 | OpenCV 화소 처리·에지·특징점 매칭, 딥러닝 분류·검출·분할·추적 | [Cpp-CV](https://github.com/seo941024/Cpp-CV) |
-| 웹 | HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage | [Web-PRG](https://github.com/seo941024/Web-PRG) |
-
----
-
-## 기타 프로젝트
-
-| 프로젝트 | 내용 | 기술 |
-|---|---|---|
-| [PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene) | 텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 비교, 문장 기반 영상·사진첩 장면 검색 | `Python` `YOLO-World` `Grounding DINO` |
-| [EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter) | 프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 가상 선 통과 인원 방향별 집계 | `Python` `YOLO` `BoT-SORT` |
-| [DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI) | 자세 키포인트 기반 책상 앞 자세 3종 분류, 표정 인식 결과 집계 기반 집중 상태 판단 | `Python` `YOLO-Pose` `XGBoost` `DeepFace` |
 
 ---
 
