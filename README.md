@@ -7,20 +7,25 @@
 
 ## Tech Stack
 
+배지를 누르면 해당 기술을 사용한 저장소로 이동.
+
 | Category | Stack |
 |---|---|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) |
-| Backend | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-444444?style=flat-square) ![Servlet/JSP](https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
-| Frontend & App | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![Flet](https://img.shields.io/badge/Flet-0A84FF?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square) |
-| Machine Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
-| Computer Vision | ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2932E1?style=flat-square) |
-| Data | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square) |
-| DB | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square) ![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black) |
-| DevOps & Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) |
+| Languages | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/seo941024/Python) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)](https://github.com/seo941024/DDarueng) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/seo941024/Java) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/seo941024/Web-PRG) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/seo941024/Cpp-CV) [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://github.com/seo941024/DDarueng) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/seo941024/Web-PRG) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)](https://github.com/seo941024/Web-PRG) |
+| Backend | [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://github.com/seo941024/Crawling) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/seo941024/Web-PRG) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://github.com/seo941024/Java) [![MyBatis](https://img.shields.io/badge/MyBatis-444444?style=flat-square)](https://github.com/seo941024/Java) [![Servlet/JSP](https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square)](https://github.com/seo941024/Java) |
+| Web Frontend | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Jenny5789/CGI_MOA) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/seo941024/LPR_System) |
+| Desktop & Mobile | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/seo941024/DDarueng) [![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/seo941024/LPR_System) [![Flet](https://img.shields.io/badge/Flet-0A84FF?style=flat-square)](https://github.com/seo941024/Python) [![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square)](https://github.com/seo941024/Cpp-CV) |
+| Machine Learning | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/seo941024/DeskPoseAI) [![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)](https://github.com/seo941024/DeskPoseAI) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/seo941024/PromptScene) |
+| Computer Vision | [![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)](https://github.com/seo941024/LPR_System) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/seo941024/LPR_System) [![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2932E1?style=flat-square)](https://github.com/seo941024/LPR_System) |
+| Data | [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/seo941024/DDarueng) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)](https://github.com/seo941024/Traffic-Sign-Classification) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://github.com/seo941024/LPR_System) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)](https://github.com/seo941024/DDarueng) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/seo941024/Crawling) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)](https://github.com/seo941024/Crawling) |
+| DB | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/seo941024/Crawling) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://github.com/seo941024/DDarueng) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)](https://github.com/seo941024/Java) |
+| DevOps & Tools | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/seo941024/Crawling) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) |
 
 ---
 
-## 대표 프로젝트
+## 프로젝트
+
+### 대표 프로젝트
 
 <table>
 <tr>
@@ -97,9 +102,7 @@ Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카�
 </tr>
 </table>
 
----
-
-## 기타 프로젝트
+### 기타 프로젝트
 
 <table>
 <tr>
@@ -132,11 +135,21 @@ Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카�
 
 </td>
 </tr>
+</table>
+
+---
+
+## 학습 기록
+
+언어 문법, 자료구조와 알고리즘, 웹·데스크톱 프레임워크 학습과 응용 결과물.
+
+<table>
 <tr>
 <td>
 
 **[Python · 자료구조와 알고리즘](https://github.com/seo941024/Python)**<br>
-배열·연결 방식 자료구조 클래스 구현, 미로 탐색 3종 비교, 정렬 6종, Flet·tkinter 화면 구성
+학습: 배열·연결 방식 자료구조 클래스 구현, 정렬 6종, 미로 탐색 3종 비교<br>
+응용: 수식 계산기, 라인 편집기, Flet 미로 탐색 시각화, tkinter 화면 구성
 
 `Python` `Flet` `tkinter`
 
@@ -146,7 +159,8 @@ Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카�
 <td>
 
 **[Java · 기본 문법과 웹 애플리케이션](https://github.com/seo941024/Java)**<br>
-객체지향·컬렉션, 서블릿·JSP 세션 로그인과 MVC 패턴, Spring MVC·MyBatis 계층 분리
+학습: 문법·객체지향·컬렉션, 서블릿·JSP MVC 패턴, Spring MVC·MyBatis 계층 분리<br>
+응용: 세션 로그인 기반 회원 관리 웹 애플리케이션
 
 `Java` `Servlet/JSP` `Spring MVC` `MyBatis` `Oracle`
 
@@ -156,7 +170,8 @@ Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카�
 <td>
 
 **[Cpp-CV · C++와 컴퓨터 비전](https://github.com/seo941024/Cpp-CV)**<br>
-C++ 클래스·포인터·동적 메모리, MFC 윈도우 프로그래밍, OpenCV 화소 처리·특징점 매칭, 딥러닝 분류·검출·추적
+학습: C++ 클래스·포인터·동적 메모리, OpenCV 화소 처리·특징점 매칭, 딥러닝 분류·검출·추적<br>
+응용: 별도 스레드 추론 기반 MFC 웹캠 뷰어
 
 `C++` `MFC` `OpenCV`
 
@@ -166,17 +181,8 @@ C++ 클래스·포인터·동적 메모리, MFC 윈도우 프로그래밍, OpenC
 <td>
 
 **[Web-PRG · 웹 프로그래밍](https://github.com/seo941024/Web-PRG)**<br>
-HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[파스텔 루틴 투두리스트](https://github.com/seo941024/Web-PRG)**<br>
-매일 반복하는 할 일을 한국 시간 자정에 자동 초기화하는 루틴 관리 웹 앱, 터치 드래그 순서 변경, 테마·배경·글꼴 맞춤 설정
+학습: HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage<br>
+응용: 파스텔 루틴 투두리스트, 한국 시간 자정 자동 초기화·터치 드래그 순서 변경 루틴 관리 웹 앱
 
 `HTML` `CSS` `JavaScript`
 
