@@ -1,6 +1,6 @@
 # 서지섭
 
-웹·데스크톱·앱 서비스 구현부터 AI 모델 활용, 데이터 수집·분석까지 직접 만들고 확인하는 개발자.
+웹·데스크톱·앱 서비스 구현부터 AI 모델 활용, 데이터 수집·분석까지 만들고 확인하는 개발자.
 예상과 다른 결과가 나오면 원인을 찾아 끝까지 해결합니다.
 
 ---
@@ -133,48 +133,21 @@
 
 ---
 
-## 언어별 구현·기타 프로젝트
+## 기본기 학습
 
-<table>
-<tr>
-<td width="38%"><img src="images/data-structure.jpg" alt="자료구조 구현과 응용"></td>
-<td>
+언어별 기본 문법부터 프레임워크까지의 학습 기록.
 
-### [자료구조 구현과 응용](https://github.com/seo941024/Python)
-- 리스트·스택·큐·덱·우선순위 큐·집합을 배열·연결 구조 두 방식으로 구현, 정렬 6종
-- 같은 미로에 스택·큐·우선순위 큐 적용해 탐색 순서 비교, 스택 기반 수식 계산기
+| 분야 | 학습 범위 | 저장소 |
+|---|---|---|
+| Python | 배열·연결 방식 자료구조 클래스 구현, 미로 탐색 3종 비교, 정렬 6종, Flet·tkinter 화면 구성 | [Python](https://github.com/seo941024/Python) |
+| Java | 기본 문법·객체지향·컬렉션, 서블릿·JSP 세션 로그인과 MVC 패턴, Spring MVC·MyBatis 계층 분리 | [Java](https://github.com/seo941024/Java) |
+| C++ | 기본 문법·함수·클래스, 포인터·동적 메모리, 헤더 분할 컴파일, MFC 윈도우 프로그래밍 | [Cpp-CV](https://github.com/seo941024/Cpp-CV) |
+| 컴퓨터 비전 | OpenCV 화소 처리·에지·특징점 매칭, 딥러닝 분류·검출·분할·추적 | [Cpp-CV](https://github.com/seo941024/Cpp-CV) |
+| 웹 | HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage | [Web-PRG](https://github.com/seo941024/Web-PRG) |
 
-`Python` `flet`
+---
 
-</td>
-</tr>
-<tr>
-<td><img src="images/java.jpg" alt="Java"></td>
-<td>
-
-### [Java 웹 애플리케이션](https://github.com/seo941024/Java)
-- 서블릿·JSP 기반 회원 조회·등록·삭제, 쿠키·세션 로그인, MVC 패턴 구현
-- Spring MVC·MyBatis 연동, Controller·Service·DAO 계층 분리, 애너테이션 기반 트랜잭션 처리
-- 상속·다형성·인터페이스, 컬렉션·제네릭, 파일 입출력 콘솔 프로그램
-
-`Java` `Servlet` `JSP` `Spring MVC` `MyBatis` `Oracle`
-
-</td>
-</tr>
-<tr>
-<td><img src="images/cpp-cv.jpg" alt="C++ 프로그래밍·컴퓨터 비전"></td>
-<td>
-
-### [C++ 프로그래밍 · 컴퓨터 비전](https://github.com/seo941024/Cpp-CV)
-- C++ 클래스·정적 멤버·소멸자·분할 컴파일 기반 분수 계산·제품 관리 프로그램
-- MFC 대화상자·버튼 이벤트 처리, 웹캠 영상 뷰어 프로그램
-- Python OpenCV 이진화·캐니 에지, HSV 마스크·원형도 기반 사과 검출, SIFT·호모그래피 기반 표지판 검출
-
-`C++` `MFC` `Python` `OpenCV`
-
-</td>
-</tr>
-</table>
+## 기타 프로젝트
 
 <table>
 <tr>
