@@ -18,8 +18,8 @@
 | Machine Learning | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/seo941024/DeskPoseAI) [![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)](https://github.com/seo941024/DeskPoseAI) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/seo941024/PromptScene) |
 | Computer Vision | [![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)](https://github.com/seo941024/LPR_System) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/seo941024/LPR_System) [![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2932E1?style=flat-square)](https://github.com/seo941024/LPR_System) |
 | Data | [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/seo941024/DDarueng) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)](https://github.com/seo941024/Traffic-Sign-Classification) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://github.com/seo941024/LPR_System) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)](https://github.com/seo941024/DDarueng) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/seo941024/Crawling) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)](https://github.com/seo941024/Crawling) |
-| DB | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/seo941024/Crawling) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://github.com/seo941024/DDarueng) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)](https://github.com/seo941024/Java) |
-| DevOps & Tools | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/seo941024/Crawling) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) |
+| DB | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/seo941024/Crawling) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://github.com/seo941024/DDarueng) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)](https://github.com/seo941024/Java) [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)](https://github.com/seo941024/Byeolnim) |
+| DevOps & Tools | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/seo941024/Crawling) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/seo941024/Byeolnim) |
 
 ---
 
@@ -97,6 +97,30 @@ PyTorch 학습 루프 구현, Keras 이중 구현 교차 확인, 입력 크기 �
 Node 서버 프록시 기반 공공데이터포털 유기동물 API 연동, 카카오 지도 API, 품종 추천 퀴즈
 
 `HTML` `CSS` `JavaScript` `Node.js`
+
+</td>
+</tr>
+<tr>
+<td align="center"><img src="images/byeolnim.jpg" width="200" alt="별님앱"></td>
+<td>
+
+**[별님앱 · 게임 플레이어용 계산기·기록 웹앱](https://github.com/seo941024/Byeolnim)** · 개인 프로젝트 · [byeolnim.vercel.app](https://byeolnim.vercel.app)<br>
+메이플스토리 GMS 플레이어를 위한 계산기·시뮬레이터·기록 도구 모음, 홈 화면 설치 가능한 PWA<br>
+Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 기록, Web Push 보스 일정 알림
+
+`JavaScript` `Vercel` `Redis` `PWA` `Web Push`
+
+</td>
+</tr>
+<tr>
+<td align="center"><img src="images/skull.jpg" width="200" alt="해골용사"></td>
+<td>
+
+**[해골용사 · 로그라이트 액션 웹 게임](https://github.com/seo941024/skullPJ)** · 개인 프로젝트<br>
+해골로 되살아난 용사가 월드 10개를 지나 마왕에게 다시 도전하는 사이드스크롤 로그라이트<br>
+직업 8종·보스 10종·유물 시너지, Web Audio API 효과음·BGM 합성, V2에서 엔진·장면·데이터 분리 재작성
+
+`JavaScript` `Canvas 2D` `Web Audio API`
 
 </td>
 </tr>
