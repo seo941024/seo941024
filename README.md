@@ -1,7 +1,7 @@
 # 서지섭
 
 웹·데스크톱·앱 서비스 구현부터 AI 모델 활용, 데이터 수집·분석까지 만들고 확인하는 개발자.
-예상과 다른 결과가 나오면 원인을 찾아 끝까지 해결합니다.
+예상과 다른 결과가 나오면 원인을 찾아 끝까지 해결.
 
 ---
 
@@ -16,7 +16,7 @@
 | Web Frontend | [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Jenny5789/CGI_MOA) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/seo941024/LPR_System) |
 | Desktop & Mobile | [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://github.com/seo941024/DDarueng) [![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)](https://github.com/seo941024/LPR_System) [![Flet](https://img.shields.io/badge/Flet-0A84FF?style=flat-square)](https://github.com/seo941024/Python) [![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square)](https://github.com/seo941024/Cpp-CV) |
 | Machine Learning | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/seo941024/DeskPoseAI) [![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)](https://github.com/seo941024/DeskPoseAI) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://github.com/seo941024/PromptScene) |
-| Computer Vision | [![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)](https://github.com/seo941024/LPR_System) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/seo941024/LPR_System) [![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2932E1?style=flat-square)](https://github.com/seo941024/LPR_System) |
+| Computer Vision | [![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)](https://github.com/seo941024/LPR_System) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/seo941024/LPR_System) [![PaddleOCR](https://img.shields.io/badge/PaddleOCR-2932E1?style=flat-square)](https://github.com/seo941024/LPR_System) [![EasyOCR](https://img.shields.io/badge/EasyOCR-00897B?style=flat-square)](https://github.com/seo941024/ParkingSystem) [![DeepFace](https://img.shields.io/badge/DeepFace-4B32C3?style=flat-square)](https://github.com/seo941024/DeskPoseAI) |
 | Data | [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://github.com/seo941024/DDarueng) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/seo941024/Traffic-Sign-Classification) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)](https://github.com/seo941024/Traffic-Sign-Classification) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://github.com/seo941024/LPR_System) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)](https://github.com/seo941024/DDarueng) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://github.com/seo941024/Crawling) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)](https://github.com/seo941024/Crawling) |
 | DB | [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/seo941024/Crawling) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://github.com/seo941024/DDarueng) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)](https://github.com/seo941024/Java) [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)](https://byeolnim.vercel.app) |
 | DevOps & Tools | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/seo941024/Crawling) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/Jenny5789/CGI_MOA) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://byeolnim.vercel.app) |
@@ -25,7 +25,7 @@
 
 ## 프로젝트
 
-### 대표 프로젝트
+### 데이터 수집·분석
 
 <table>
 <tr>
@@ -52,13 +52,19 @@
 
 </td>
 </tr>
+</table>
+
+### AI·컴퓨터 비전
+
+<table>
 <tr>
-<td align="center"><img src="images/lpr.jpg" width="200" alt="LPR_System"></td>
+<td width="210" align="center"><img src="images/lpr.jpg" width="200" alt="LPR_System"></td>
 <td>
 
 **[LPR_System · 번호판 인식 주차 관리](https://github.com/seo941024/LPR_System)** · 개인 프로젝트<br>
 번호판 검출·인식으로 입출차를 기록하고 SQL로 이용 패턴을 분석하는 주차 관리 시스템<br>
-YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택, SQLite 입출차 기록 분석 대시보드
+YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택, SQLite 입출차 기록 분석 대시보드<br>
+같은 주제의 첫 프로젝트: [ParkingSystem](https://github.com/seo941024/ParkingSystem) · OpenCV 윤곽선·색상 검출과 EasyOCR 인식, Flet 관리 앱
 
 `Python` `PyTorch` `YOLO` `PaddleOCR` `PyQt6` `SQLite` `Streamlit`
 
@@ -70,7 +76,7 @@ YOLO 번호판 검출 학습, OCR 2종 비교 후 PaddleOCR 채택, SQLite 입�
 
 **[MOA · 의류 이미지 합성 웹 서비스](https://github.com/Jenny5789/CGI_MOA)** · 4인 팀 프로젝트<br>
 미래내일 일경험 참여, 상의·인물 사진 기반 시착 이미지 합성<br>
-담당: React 단계별 합성 화면 구현, FastAPI 서버 API 연동, 브랜치·PR 기반 팀 협업
+역할: React 단계별 합성 화면 구현, FastAPI 서버 API 연동, 브랜치·PR 기반 팀 협업
 
 `React` `FastAPI` `MySQL` `PyTorch` `Cloudflare`
 
@@ -88,8 +94,44 @@ PyTorch 학습 루프 구현, Keras 이중 구현 교차 확인, 입력 크기 �
 
 </td>
 </tr>
+</table>
+
+**사전 학습 모델 응용**
+
+<table>
 <tr>
-<td align="center"><img src="images/petcare.jpg" width="200" alt="펫케어"></td>
+<td width="33%" valign="top">
+
+**[PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene)**<br>
+텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 비교, 문장 기반 영상·사진첩 장면 검색
+
+`Python` `YOLO-World` `Grounding DINO`
+
+</td>
+<td width="33%" valign="top">
+
+**[EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter)**<br>
+프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 가상 선 통과 인원 방향별 집계
+
+`Python` `YOLO` `BoT-SORT`
+
+</td>
+<td width="33%" valign="top">
+
+**[DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI)**<br>
+자세 키포인트 기반 책상 앞 자세 3종 분류, 표정 인식 결과 집계 기반 집중 상태 판단
+
+`Python` `YOLO-Pose` `XGBoost` `DeepFace`
+
+</td>
+</tr>
+</table>
+
+### 웹 서비스·게임
+
+<table>
+<tr>
+<td width="210" align="center"><img src="images/petcare.jpg" width="200" alt="펫케어"></td>
 <td>
 
 **[펫케어 · 반려동물 케어 웹 서비스](https://github.com/seo941024/Web-PRG)** · 개인 프로젝트<br>
@@ -126,41 +168,6 @@ Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 
 </tr>
 </table>
 
-### 기타 프로젝트
-
-<table>
-<tr>
-<td>
-
-**[PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene)**<br>
-텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 비교, 문장 기반 영상·사진첩 장면 검색
-
-`Python` `YOLO-World` `Grounding DINO`
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter)**<br>
-프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 가상 선 통과 인원 방향별 집계
-
-`Python` `YOLO` `BoT-SORT`
-
-</td>
-</tr>
-<tr>
-<td>
-
-**[DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI)**<br>
-자세 키포인트 기반 책상 앞 자세 3종 분류, 표정 인식 결과 집계 기반 집중 상태 판단
-
-`Python` `YOLO-Pose` `XGBoost` `DeepFace`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 학습 기록
@@ -169,7 +176,7 @@ Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
 **[Python · 자료구조와 알고리즘](https://github.com/seo941024/Python)**<br>
 학습: 배열·연결 방식 자료구조 클래스 구현, 정렬 6종, 미로 탐색 3종 비교<br>
@@ -178,9 +185,7 @@ Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 
 `Python` `Flet` `tkinter`
 
 </td>
-</tr>
-<tr>
-<td>
+<td width="50%" valign="top">
 
 **[Java · 기본 문법과 웹 애플리케이션](https://github.com/seo941024/Java)**<br>
 학습: 문법·객체지향·컬렉션, 서블릿·JSP MVC 패턴, Spring MVC·MyBatis 계층 분리<br>
@@ -191,7 +196,7 @@ Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
 **[Cpp-CV · C++와 컴퓨터 비전](https://github.com/seo941024/Cpp-CV)**<br>
 학습: C++ 클래스·포인터·동적 메모리, OpenCV 화소 처리·특징점 매칭, 딥러닝 분류·검출·추적<br>
@@ -200,9 +205,7 @@ Vercel 서버리스 함수와 Upstash Redis 기반 계정·게시판·경험치 
 `C++` `MFC` `OpenCV`
 
 </td>
-</tr>
-<tr>
-<td>
+<td valign="top">
 
 **[Web-PRG · 웹 프로그래밍](https://github.com/seo941024/Web-PRG)**<br>
 학습: HTML 태그·폼, CSS 박스 모델·Flexbox·Grid·반응형, JavaScript DOM·이벤트·localStorage<br>
