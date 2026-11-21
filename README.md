@@ -1,29 +1,9 @@
-<img src="images/header.png" width="100%" alt="서지섭 · AI 컴퓨터 비전 · 웹 서비스 · 데이터 분석">
+<img src="images/header.png" width="100%" alt="서지섭 · 만들고, 결과를 끝까지 확인하는 개발자">
 
 <p>
   <a href="mailto:seo941024@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md"><img src="https://img.shields.io/badge/MOA%20작업일지-5B6B7F?style=flat-square&logo=github&logoColor=white" alt="MOA 작업일지"></a>
 </p>
-
-AI 컴퓨터 비전·웹 서비스·데이터 분석을 직접 만들고, 예상과 다른 결과는 원인을 찾아 끝까지 확인하는 주니어 개발자.
-
-<table>
-<tr>
-<th width="33%">AI 컴퓨터 비전</th>
-<th width="33%">웹 서비스</th>
-<th width="33%">데이터 분석</th>
-</tr>
-<tr>
-<td valign="top">검출·인식·추적·합성 모델 적용, 실패 원인을 단계별로 좁혀 모델과 실행 환경 개선</td>
-<td valign="top">모델과 데이터를 화면·API로 연결, React·FastAPI·Flask 서비스 구현과 Docker 배포</td>
-<td valign="top">공공데이터·쇼핑몰 데이터 수집·정제, SQL 집계, Power BI·Streamlit 대시보드</td>
-</tr>
-<tr>
-<td><sub><a href="https://github.com/Jenny5789/CGI_MOA">MOA</a> · <a href="https://github.com/seo941024/LPR_System">LPR_System</a> · <a href="https://github.com/seo941024/Traffic-Sign-Classification">교통 표지판 분류</a></sub></td>
-<td><sub><a href="https://github.com/Jenny5789/CGI_MOA">MOA</a> · <a href="https://github.com/seo941024/Crawling">오카시에리</a> · <a href="https://github.com/seo941024/Web-PRG">펫케어</a></sub></td>
-<td><sub><a href="https://github.com/seo941024/DDarueng">공공자전거 대여소 진단</a> · <a href="https://github.com/seo941024/Crawling">오카시에리</a> · <a href="https://github.com/seo941024/LPR_System">LPR_System</a></sub></td>
-</tr>
-</table>
 
 ## 대표 프로젝트
 
@@ -163,7 +143,7 @@ AI 컴퓨터 비전·웹 서비스·데이터 분석을 직접 만들고, 예상
 | 분류 | 기술 |
 |---|---|
 | Languages | [Python](https://github.com/seo941024/Python) · [SQL](https://github.com/seo941024/DDarueng) · [Java](https://github.com/seo941024/Java) · [JavaScript](https://github.com/seo941024/Web-PRG) · [C++](https://github.com/seo941024/Cpp-CV) · [Dart](https://github.com/seo941024/DDarueng) · [HTML·CSS](https://github.com/seo941024/Web-PRG) |
-| AI·컴퓨터 비전 | [PyTorch](https://github.com/seo941024/Traffic-Sign-Classification) · [Keras](https://github.com/seo941024/Traffic-Sign-Classification) · [scikit-learn](https://github.com/seo941024/DeskPoseAI) · [XGBoost](https://github.com/seo941024/DeskPoseAI) · [YOLO](https://github.com/seo941024/LPR_System) · [OpenCV](https://github.com/seo941024/LPR_System) · [PaddleOCR](https://github.com/seo941024/LPR_System) · [EasyOCR](https://github.com/seo941024/ParkingSystem) · [DeepFace](https://github.com/seo941024/DeskPoseAI) · [Hugging Face](https://github.com/seo941024/PromptScene) · [SAM2·AnyDoor](https://github.com/Jenny5789/CGI_MOA) |
+| AI | [PyTorch](https://github.com/seo941024/Traffic-Sign-Classification) · [Keras](https://github.com/seo941024/Traffic-Sign-Classification) · [scikit-learn](https://github.com/seo941024/DeskPoseAI) · [XGBoost](https://github.com/seo941024/DeskPoseAI) · [YOLO](https://github.com/seo941024/LPR_System) · [OpenCV](https://github.com/seo941024/LPR_System) · [PaddleOCR](https://github.com/seo941024/LPR_System) · [EasyOCR](https://github.com/seo941024/ParkingSystem) · [DeepFace](https://github.com/seo941024/DeskPoseAI) · [Hugging Face](https://github.com/seo941024/PromptScene) · [SAM2·AnyDoor](https://github.com/Jenny5789/CGI_MOA) |
 | Backend | [FastAPI](https://github.com/Jenny5789/CGI_MOA) · [Flask](https://github.com/seo941024/Crawling) · [SQLAlchemy](https://github.com/Jenny5789/CGI_MOA) · [Node.js](https://github.com/seo941024/Web-PRG) · [Spring MVC](https://github.com/seo941024/Java) · [MyBatis](https://github.com/seo941024/Java) · [Servlet·JSP](https://github.com/seo941024/Java) |
 | Frontend·앱 | [React](https://github.com/Jenny5789/CGI_MOA) · [Vite](https://github.com/Jenny5789/CGI_MOA) · [Streamlit](https://github.com/seo941024/LPR_System) · [Flutter](https://github.com/seo941024/DDarueng) · [PyQt6](https://github.com/seo941024/LPR_System) · [Flet](https://github.com/seo941024/Python) · [MFC](https://github.com/seo941024/Cpp-CV) |
 | Data | [pandas](https://github.com/seo941024/DDarueng) · [NumPy](https://github.com/seo941024/Traffic-Sign-Classification) · [Matplotlib](https://github.com/seo941024/Traffic-Sign-Classification) · [Plotly](https://github.com/seo941024/LPR_System) · [Power BI](https://github.com/seo941024/DDarueng) · [Selenium](https://github.com/seo941024/Crawling) · [BeautifulSoup](https://github.com/seo941024/Crawling) |
