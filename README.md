@@ -35,9 +35,7 @@
 
 번호판 검출·인식으로 입출차를 기록하고 SQL로 이용 패턴·매출을 분석하는 주차 관리 시스템.
 
-**결과** 검증 데이터 번호판 9,999개 중 9,582개 검출(YOLOv11m), 한글 검사 추가로 OCR 오답 7건 중 6건 제외·정답 제외 0건<br><sub>검출: AIHub 이미지 10만 장을 9:1로 나눈 검증 데이터(학습과 같은 촬영 조건) · OCR: 직접 촬영한 도로 영상의 번호판 영역</sub>
-
-**핵심** 번호판을 거의 읽지 못하던 원인을 검출 단계로 좁혀 YOLO 모델 교체, OCR 2종 비교 후 PaddleOCR 채택, 추론·화면 스레드 분리, 인식 로그와 입출차 이벤트를 나눈 6개 테이블 설계
+**핵심** 번호판 인식 문제의 원인을 검출 단계로 좁혀 YOLO 모델 교체, OCR 2종 비교 후 PaddleOCR 채택, 추론·화면 스레드 분리, 인식 로그와 입출차 이벤트를 나눈 6개 테이블 설계
 
 <sub>같은 주제의 첫 프로젝트: <a href="https://github.com/seo941024/ParkingSystem">ParkingSystem</a> · OpenCV 윤곽선·색상 검출과 EasyOCR 인식, Flet 관리 앱</sub>
 
@@ -55,8 +53,6 @@
 
 대여 기록과 대여 가능 수량으로 자주 비는 대여소와 자전거가 남는 대여소를 구분하고, 대여소마다 검토할 운영 조치 분류.
 
-**결과** 상·하반기 분류 일치율 규칙 기반 79.6%, k-means 평균 75.3%로 비교 후 규칙 기반 채택<br><sub>2025년 운영 기록, 같은 지표 3개, k-means는 초기값 10가지로 반복 실행</sub>
-
 **핵심** 공급 부족·과잉 판정 기준 설계, 규칙 기반 분류와 k-means 군집화 비교, DuckDB SQL 분석, Power BI 현황 대시보드와 Flutter 분석 프로그램
 
 <img src="https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/DuckDB-1E3A5F?style=flat-square&logo=duckdb&logoColor=white" alt="DuckDB"> <img src="https://img.shields.io/badge/SQL-1E3A5F?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-1E3A5F?style=flat-square" alt="Power BI"> <img src="https://img.shields.io/badge/Flutter-1E3A5F?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
@@ -70,8 +66,6 @@
 <sub>개인 프로젝트</sub>
 
 일본 과자 직구 쇼핑몰 3곳의 상품을 하나의 DB로 모아 검색하고 가격순으로 비교하는 웹사이트.
-
-**결과** 쇼핑몰 3곳 상품을 DB 하나로 통합(중복 0건), 매주 자동 수집 후 상품 수 검증<br><sub>수집 단계 상품 주소 기준 1회 기록과 DB UNIQUE 제약으로 중복 차단, 상품 3,000건 미만이면 새 DB 사용 안 함</sub>
 
 **핵심** 사이트 구조별 정적·동적 수집 방식 선택, SQLite 통합 DB와 Flask 검색(초성 검색·필터), GitHub Actions 주 1회 자동 수집, 자동 수집 서버 접속 차단 원인을 확인하고 우회 없이 수집 경로 분리
 
@@ -91,7 +85,7 @@
 **원인부터 좁히기**<br>
 증상을 덮기 전에 어느 단계에서 생긴 문제인지 먼저 확인
 
-<sub><a href="https://github.com/seo941024/LPR_System#6-문제-해결">LPR</a> 번호판 인식 실패 원인을 검출 단계로 좁혀 모델 교체<br><a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md">MOA</a> GPU 메모리 초과 원인 확인 후 float16·부품 단위 적재</sub>
+<sub><a href="https://github.com/seo941024/LPR_System#6-문제-해결">LPR</a> 번호판 인식 문제의 원인을 검출 단계로 좁혀 모델 교체<br><a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md">MOA</a> GPU 메모리 초과 원인 확인 후 float16·부품 단위 적재</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -202,7 +196,7 @@
 ## 학습 기록
 
 <details>
-<summary><b>저장소 5개</b> · 언어 문법, 자료구조와 알고리즘, 웹·데스크톱 프레임워크 학습과 응용 결과물.</summary>
+<summary><b>저장소 5개</b> · undefined</summary>
 
 <br>
 
