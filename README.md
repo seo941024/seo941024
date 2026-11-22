@@ -5,167 +5,29 @@
   <a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md"><img src="https://img.shields.io/badge/MOA%20작업일지-5B6B7F?style=flat-square&logo=github&logoColor=white" alt="MOA 작업일지"></a>
 </p>
 
-<sub>[대표 프로젝트](#대표-프로젝트) · [작업 방식](#작업-방식) · [그 밖의 프로젝트](#그-밖의-프로젝트) · [기술 스택](#기술-스택) · [학습 기록](#학습-기록)</sub>
-
 ## 대표 프로젝트
 
-<table>
-<tr>
-<td width="42%" valign="middle"><a href="https://github.com/Jenny5789/CGI_MOA"><img src="images/moa.gif" width="100%" alt="MOA 합성 과정: 상의·인물 사진 선택, 상의 영역 지정, 착용 영역 지정, 합성 결과"></a></td>
-<td valign="top">
+<p align="center">
+<a href="https://github.com/Jenny5789/CGI_MOA"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/moa-dark.png"><img src="images/cards/moa-light.png" width="400" alt="MOA · 의류 이미지 합성: 상의 사진과 인물 사진으로 착용 모습을 합성하는 웹 서비스 (4인 팀 프로젝트, 합성 모델 최적화·추론 서버·합성 화면 담당)"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024/LPR_System"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/lpr-dark.png"><img src="images/cards/lpr-light.png" width="400" alt="LPR System · 주차 관리: 번호판 인식으로 입출차를 기록하고 SQL로 이용 패턴을 분석하는 주차 관리 시스템 (개인 프로젝트)"></picture></a>
+</p>
 
-### [MOA](https://github.com/Jenny5789/CGI_MOA) · 의류 이미지 합성 웹 서비스
-<sub>4인 팀 프로젝트 · 2026.09 ~ 2026.11 · 기업 연계(미래내일 일경험)</sub>
-
-상의 사진과 인물 사진으로 착용 모습을 합성하는 웹 서비스. SAM2로 상의 영역을 지정하고 AnyDoor로 합성.
-
-**결과** GPU 메모리 초과로 분 단위 걸리던 합성 1건을 약 25초로 단축(RTX 3080 10GB), 추가 학습 가중치 비교 후 배포 가중치 선정
-
-**담당** 합성 모델 실행 환경, GPU 메모리 최적화(float16·부품 단위 GPU 적재), AnyDoor 추가 학습 실행·평가(B200), React 합성 화면, 모델 추론 서버 분리·Docker 배포, 코드 검토 · <a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md">작업일지</a>
-
-<img src="https://img.shields.io/badge/PyTorch-1E3A5F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/SAM2-1E3A5F?style=flat-square&logo=meta&logoColor=white" alt="SAM2"> <img src="https://img.shields.io/badge/AnyDoor-1E3A5F?style=flat-square" alt="AnyDoor"> <img src="https://img.shields.io/badge/React-1E3A5F?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-1E3A5F?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/MySQL-1E3A5F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-1E3A5F?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [LPR_System](https://github.com/seo941024/LPR_System) · 번호판 인식 주차 관리
-<sub>개인 프로젝트</sub>
-
-번호판 검출·인식으로 입출차를 기록하고 SQL로 이용 패턴·매출을 분석하는 주차 관리 시스템.
-
-**핵심** 번호판 인식 문제의 원인을 검출 단계로 좁혀 YOLO 모델 교체, OCR 2종 비교 후 PaddleOCR 채택, 추론·화면 스레드 분리, 인식 로그와 입출차 이벤트를 나눈 6개 테이블 설계
-
-<sub>같은 주제의 첫 프로젝트: <a href="https://github.com/seo941024/ParkingSystem">ParkingSystem</a> · OpenCV 윤곽선·색상 검출과 EasyOCR 인식, Flet 관리 앱</sub>
-
-<img src="https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/YOLOv11-1E3A5F?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv11"> <img src="https://img.shields.io/badge/PaddleOCR-1E3A5F?style=flat-square" alt="PaddleOCR"> <img src="https://img.shields.io/badge/PyQt6-1E3A5F?style=flat-square&logo=qt&logoColor=white" alt="PyQt6"> <img src="https://img.shields.io/badge/SQLite-1E3A5F?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Streamlit-1E3A5F?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-
-</td>
-<td width="42%" valign="middle"><a href="https://github.com/seo941024/LPR_System"><img src="images/lpr.jpg" width="100%" alt="LPR_System 대시보드"></a></td>
-</tr>
-<tr>
-<td width="42%" valign="middle"><a href="https://github.com/seo941024/DDarueng"><img src="images/ddareungi.jpg" width="100%" alt="공공자전거 대여소 진단 프로그램 현황 화면"></a></td>
-<td valign="top">
-
-### [서울 공공자전거 대여소 진단 프로그램](https://github.com/seo941024/DDarueng)
-<sub>개인 프로젝트</sub>
-
-대여 기록과 대여 가능 수량으로 자주 비는 대여소와 자전거가 남는 대여소를 구분하고, 대여소마다 검토할 운영 조치 분류.
-
-**핵심** 공급 부족·과잉 판정 기준 설계, 규칙 기반 분류와 k-means 군집화 비교, DuckDB SQL 분석, Power BI 현황 대시보드와 Flutter 분석 프로그램
-
-<img src="https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/DuckDB-1E3A5F?style=flat-square&logo=duckdb&logoColor=white" alt="DuckDB"> <img src="https://img.shields.io/badge/SQL-1E3A5F?style=flat-square" alt="SQL"> <img src="https://img.shields.io/badge/Power%20BI-1E3A5F?style=flat-square" alt="Power BI"> <img src="https://img.shields.io/badge/Flutter-1E3A5F?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [오카시에리](https://github.com/seo941024/Crawling) · 일본 과자 가격 비교 검색
-<sub>개인 프로젝트</sub>
-
-일본 과자 직구 쇼핑몰 3곳의 상품을 하나의 DB로 모아 검색하고 가격순으로 비교하는 웹사이트.
-
-**핵심** 사이트 구조별 정적·동적 수집 방식 선택, SQLite 통합 DB와 Flask 검색(초성 검색·필터), GitHub Actions 주 1회 자동 수집, 자동 수집 서버 접속 차단 원인을 확인하고 우회 없이 수집 경로 분리
-
-<img src="https://img.shields.io/badge/Python-1E3A5F?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Selenium-1E3A5F?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"> <img src="https://img.shields.io/badge/SQLite-1E3A5F?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Flask-1E3A5F?style=flat-square&logo=flask&logoColor=white" alt="Flask"> <img src="https://img.shields.io/badge/GitHub%20Actions-1E3A5F?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-
-</td>
-<td width="42%" valign="middle"><a href="https://github.com/seo941024/Crawling"><img src="images/okashieri.jpg" width="100%" alt="오카시에리 상품 검색 화면"></a></td>
-</tr>
-</table>
-
-## 작업 방식
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**원인부터 좁히기**<br>
-증상을 덮기 전에 어느 단계에서 생긴 문제인지 먼저 확인
-
-<sub><a href="https://github.com/seo941024/LPR_System#6-문제-해결">LPR</a> 번호판 인식 문제의 원인을 검출 단계로 좁혀 모델 교체<br><a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md">MOA</a> GPU 메모리 초과 원인 확인 후 float16·부품 단위 적재</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**비교하고 고르기**<br>
-후보를 같은 조건에서 돌려 보고 결과로 선택
-
-<sub><a href="https://github.com/seo941024/LPR_System">LPR</a> OCR 2종 · <a href="https://github.com/Jenny5789/CGI_MOA">MOA</a> 추가 학습 가중치<br><a href="https://github.com/seo941024/DDarueng">공공자전거</a> 규칙 기반 분류와 k-means<br><a href="https://github.com/seo941024/Traffic-Sign-Classification">교통 표지판</a> ANN·DNN·CNN</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**과정 남기기**<br>
-선택 이유와 문제 해결 과정을 문서로 정리
-
-<sub><a href="https://github.com/Jenny5789/CGI_MOA/blob/main/docs/%EC%9E%91%EC%97%85%EC%9D%BC%EC%A7%80_%EC%84%9C%EC%A7%80%EC%84%AD.md">MOA 작업일지</a> · <a href="https://github.com/seo941024/LPR_System#6-문제-해결">LPR 문제 해결 기록</a><br><a href="https://github.com/seo941024/DDarueng#기술-스택과-선택-이유">기술 선택 이유와 대안 비교</a></sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/seo941024/DDarueng"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/ddareungi-dark.png"><img src="images/cards/ddareungi-light.png" width="400" alt="서울 공공자전거 대여소 진단: 대여 기록으로 대여소별 수요·공급을 진단하고 운영 조치를 분류하는 프로그램 (개인 프로젝트)"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024/Crawling"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/okashieri-dark.png"><img src="images/cards/okashieri-light.png" width="400" alt="오카시에리 · 과자 가격 비교: 일본 과자 쇼핑몰 3곳의 상품을 모아 검색하고 가격순으로 비교하는 웹사이트 (개인 프로젝트)"></picture></a>
+</p>
 
 ## 그 밖의 프로젝트
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p align="center">
+<a href="https://github.com/seo941024/Traffic-Sign-Classification"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/traffic-sign-dark.png"><img src="images/cards/traffic-sign-light.png" width="400" alt="교통 표지판 분류: ANN·DNN·CNN 구조 비교"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024/PromptScene"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/promptscene-dark.png"><img src="images/cards/promptscene-light.png" width="400" alt="PromptScene: 문장으로 장면 검색"></picture></a>
+</p>
 
-<a href="https://github.com/seo941024/Traffic-Sign-Classification"><img src="images/traffic-sign.jpg" width="100%" alt="교통 표지판 분류 데이터 예시"></a><br>
-**[교통 표지판 분류](https://github.com/seo941024/Traffic-Sign-Classification)**<br>
-<sub>한국 교통 표지판 10종을 같은 조건의 ANN·DNN·CNN으로 학습해 구조별 성능 비교, PyTorch·Keras 교차 구현</sub>
+<p align="center">
+<a href="https://github.com/seo941024/Web-PRG"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/petcare-dark.png"><img src="images/cards/petcare-light.png" width="400" alt="펫케어: 반려동물 케어 웹 서비스"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024/EntranceCounter"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/entrance-counter-dark.png"><img src="images/cards/entrance-counter-light.png" width="400" alt="EntranceCounter: 출입 인원 추적·집계"></picture></a>
+</p>
 
-<img src="https://img.shields.io/badge/PyTorch-1E3A5F?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/Keras-1E3A5F?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/seo941024/PromptScene"><img src="images/promptscene.jpg" width="100%" alt="PromptScene"></a><br>
-**[PromptScene · 자연어 장면 검색](https://github.com/seo941024/PromptScene)**<br>
-<sub>텍스트로 찾을 대상을 지정하는 Open-Vocabulary Detection 모델 비교, 문장 기반 영상·사진첩 장면 검색</sub>
-
-<img src="https://img.shields.io/badge/YOLO--World-1E3A5F?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO-World"> <img src="https://img.shields.io/badge/Grounding%20DINO-1E3A5F?style=flat-square&logo=huggingface&logoColor=white" alt="Grounding DINO">
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/seo941024/Web-PRG"><img src="images/petcare.jpg" width="100%" alt="펫케어"></a><br>
-**[펫케어 · 반려동물 케어 웹 서비스](https://github.com/seo941024/Web-PRG)**<br>
-<sub>초보 반려인을 위한 입양 준비·건강 관리 웹, Node 서버 프록시 기반 공공데이터 API와 카카오 지도 API 연동</sub>
-
-<img src="https://img.shields.io/badge/JavaScript-1E3A5F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-1E3A5F?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-<a href="https://github.com/seo941024/EntranceCounter"><img src="images/entrance-counter.jpg" width="100%" alt="EntranceCounter"></a><br>
-**[EntranceCounter · 출입 인원 카운터](https://github.com/seo941024/EntranceCounter)**<br>
-<sub>프레임 간 같은 사람에게 같은 ID를 유지하는 객체 추적, 가상 선 통과 인원 방향별 집계</sub>
-
-<img src="https://img.shields.io/badge/YOLO-1E3A5F?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/BoT--SORT-1E3A5F?style=flat-square" alt="BoT-SORT">
-
-</td>
-<td width="33%" valign="top">
-
-<a href="https://github.com/seo941024/DeskPoseAI"><img src="images/deskpose.jpg" width="100%" alt="DeskPoseAI"></a><br>
-**[DeskPoseAI · 집중 자세·표정 인식](https://github.com/seo941024/DeskPoseAI)**<br>
-<sub>자세 키포인트 기반 책상 앞 자세 3종 분류, 표정 인식 결과 집계 기반 집중 상태 판단</sub>
-
-<img src="https://img.shields.io/badge/YOLO--Pose-1E3A5F?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO-Pose"> <img src="https://img.shields.io/badge/XGBoost-1E3A5F?style=flat-square" alt="XGBoost"> <img src="https://img.shields.io/badge/DeepFace-1E3A5F?style=flat-square" alt="DeepFace">
-
-</td>
-<td width="33%" align="center" valign="middle">
-
-**[전체 저장소 보기 →](https://github.com/seo941024?tab=repositories)**<br>
-<sub>학습 기록·실습 저장소 포함</sub>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/seo941024/DeskPoseAI"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/deskpose-dark.png"><img src="images/cards/deskpose-light.png" width="400" alt="DeskPoseAI: 자세·표정 기반 집중 판단"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/all-repos-dark.png"><img src="images/cards/all-repos-light.png" width="400" alt="전체 저장소 보기: 학습·실습 저장소 포함"></picture></a>
+</p>
 
 ## 기술 스택
 
@@ -196,7 +58,7 @@
 ## 학습 기록
 
 <details>
-<summary><b>저장소 5개</b> · undefined</summary>
+<summary><b>저장소 5개</b> · 언어 문법, 자료구조와 알고리즘, 웹·데스크톱 프레임워크 학습과 응용 결과물.</summary>
 
 <br>
 
