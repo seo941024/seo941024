@@ -31,10 +31,9 @@
 
 ## 기술 스택
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,js,cpp,dart,html,css,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,spring,react,vite,flutter,mysql,sqlite,docker,githubactions,git,cloudflare&perline=12&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,java,js,cpp,dart,html,css,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,spring,react,vite,flutter,mysql,sqlite,docker,githubactions,git,cloudflare&perline=12&theme=light" alt="기술 아이콘">
-</picture>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/stack-1-dark.png"><img src="images/cards/stack-1-light.png" width="400" alt="기술 스택 · 언어: Python, SQL, Java, JavaScript, C++, Dart, HTML·CSS / AI: PyTorch, Keras, scikit-learn, XGBoost, YOLO, OpenCV, PaddleOCR, EasyOCR, DeepFace, Hugging Face, SAM2·AnyDoor / 백엔드: FastAPI, Flask, SQLAlchemy, Node.js, Spring MVC, MyBatis, Servlet·JSP"></picture>&nbsp;&nbsp;&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/stack-2-dark.png"><img src="images/cards/stack-2-light.png" width="400" alt="기술 스택 · 프론트엔드·앱: React, Vite, Streamlit, Flutter, PyQt6, Flet, MFC / 데이터·DB: pandas, NumPy, Matplotlib, Plotly, Power BI, Selenium, BeautifulSoup, SQLite, DuckDB, MySQL, Oracle / 배포·도구: Git·PR 협업, Docker, GitHub Actions, Cloudflare Tunnel"></picture>
+</p>
 
 <details>
 <summary><b>기술별 사용 저장소 보기</b></summary>
@@ -45,13 +44,12 @@
 
 | 분류 | 기술 |
 |---|---|
-| Languages | [Python](https://github.com/seo941024/Python) · [SQL](https://github.com/seo941024/DDarueng) · [Java](https://github.com/seo941024/Java) · [JavaScript](https://github.com/seo941024/Web-PRG) · [C++](https://github.com/seo941024/Cpp-CV) · [Dart](https://github.com/seo941024/DDarueng) · [HTML·CSS](https://github.com/seo941024/Web-PRG) |
+| 언어 | [Python](https://github.com/seo941024/Python) · [SQL](https://github.com/seo941024/DDarueng) · [Java](https://github.com/seo941024/Java) · [JavaScript](https://github.com/seo941024/Web-PRG) · [C++](https://github.com/seo941024/Cpp-CV) · [Dart](https://github.com/seo941024/DDarueng) · [HTML·CSS](https://github.com/seo941024/Web-PRG) |
 | AI | [PyTorch](https://github.com/seo941024/Traffic-Sign-Classification) · [Keras](https://github.com/seo941024/Traffic-Sign-Classification) · [scikit-learn](https://github.com/seo941024/DeskPoseAI) · [XGBoost](https://github.com/seo941024/DeskPoseAI) · [YOLO](https://github.com/seo941024/LPR_System) · [OpenCV](https://github.com/seo941024/LPR_System) · [PaddleOCR](https://github.com/seo941024/LPR_System) · [EasyOCR](https://github.com/seo941024/ParkingSystem) · [DeepFace](https://github.com/seo941024/DeskPoseAI) · [Hugging Face](https://github.com/seo941024/PromptScene) · [SAM2·AnyDoor](https://github.com/Jenny5789/CGI_MOA) |
-| Backend | [FastAPI](https://github.com/Jenny5789/CGI_MOA) · [Flask](https://github.com/seo941024/Crawling) · [SQLAlchemy](https://github.com/Jenny5789/CGI_MOA) · [Node.js](https://github.com/seo941024/Web-PRG) · [Spring MVC](https://github.com/seo941024/Java) · [MyBatis](https://github.com/seo941024/Java) · [Servlet·JSP](https://github.com/seo941024/Java) |
-| Frontend·앱 | [React](https://github.com/Jenny5789/CGI_MOA) · [Vite](https://github.com/Jenny5789/CGI_MOA) · [Streamlit](https://github.com/seo941024/LPR_System) · [Flutter](https://github.com/seo941024/DDarueng) · [PyQt6](https://github.com/seo941024/LPR_System) · [Flet](https://github.com/seo941024/Python) · [MFC](https://github.com/seo941024/Cpp-CV) |
-| Data | [pandas](https://github.com/seo941024/DDarueng) · [NumPy](https://github.com/seo941024/Traffic-Sign-Classification) · [Matplotlib](https://github.com/seo941024/Traffic-Sign-Classification) · [Plotly](https://github.com/seo941024/LPR_System) · [Power BI](https://github.com/seo941024/DDarueng) · [Selenium](https://github.com/seo941024/Crawling) · [BeautifulSoup](https://github.com/seo941024/Crawling) |
-| DB | [SQLite](https://github.com/seo941024/Crawling) · [DuckDB](https://github.com/seo941024/DDarueng) · [MySQL](https://github.com/Jenny5789/CGI_MOA) · [Oracle](https://github.com/seo941024/Java) |
-| DevOps·도구 | [Git·PR 협업](https://github.com/Jenny5789/CGI_MOA) · [Docker](https://github.com/Jenny5789/CGI_MOA) · [GitHub Actions](https://github.com/seo941024/Crawling) · [Cloudflare Tunnel](https://github.com/Jenny5789/CGI_MOA) |
+| 백엔드 | [FastAPI](https://github.com/Jenny5789/CGI_MOA) · [Flask](https://github.com/seo941024/Crawling) · [SQLAlchemy](https://github.com/Jenny5789/CGI_MOA) · [Node.js](https://github.com/seo941024/Web-PRG) · [Spring MVC](https://github.com/seo941024/Java) · [MyBatis](https://github.com/seo941024/Java) · [Servlet·JSP](https://github.com/seo941024/Java) |
+| 프론트엔드·앱 | [React](https://github.com/Jenny5789/CGI_MOA) · [Vite](https://github.com/Jenny5789/CGI_MOA) · [Streamlit](https://github.com/seo941024/LPR_System) · [Flutter](https://github.com/seo941024/DDarueng) · [PyQt6](https://github.com/seo941024/LPR_System) · [Flet](https://github.com/seo941024/Python) · [MFC](https://github.com/seo941024/Cpp-CV) |
+| 데이터·DB | [pandas](https://github.com/seo941024/DDarueng) · [NumPy](https://github.com/seo941024/Traffic-Sign-Classification) · [Matplotlib](https://github.com/seo941024/Traffic-Sign-Classification) · [Plotly](https://github.com/seo941024/LPR_System) · [Power BI](https://github.com/seo941024/DDarueng) · [Selenium](https://github.com/seo941024/Crawling) · [BeautifulSoup](https://github.com/seo941024/Crawling) · [SQLite](https://github.com/seo941024/Crawling) · [DuckDB](https://github.com/seo941024/DDarueng) · [MySQL](https://github.com/Jenny5789/CGI_MOA) · [Oracle](https://github.com/seo941024/Java) |
+| 배포·도구 | [Git·PR 협업](https://github.com/Jenny5789/CGI_MOA) · [Docker](https://github.com/Jenny5789/CGI_MOA) · [GitHub Actions](https://github.com/seo941024/Crawling) · [Cloudflare Tunnel](https://github.com/Jenny5789/CGI_MOA) |
 
 </details>
 
