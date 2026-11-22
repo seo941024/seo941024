@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/seo941024/DeskPoseAI"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/deskpose-dark.png"><img src="images/cards/deskpose-light.png" width="400" alt="DeskPoseAI: 자세·표정 기반 집중 판단"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/all-repos-dark.png"><img src="images/cards/all-repos-light.png" width="400" alt="전체 저장소 보기: 학습·실습 저장소 포함"></picture></a>
+<a href="https://github.com/seo941024/DeskPoseAI"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/deskpose-dark.png"><img src="images/cards/deskpose-light.png" width="400" alt="DeskPoseAI: 자세 분류·표정 집계"></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/seo941024?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="images/cards/all-repos-dark.png"><img src="images/cards/all-repos-light.png" width="400" alt="전체 저장소 보기: 학습·실습 저장소 포함"></picture></a>
 </p>
 
 ## 기술 스택
